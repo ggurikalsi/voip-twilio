@@ -1,0 +1,6 @@
+framework module Pods_VOIP {
+  umbrella header "Pods-VOIP-umbrella.h"
+
+  export *
+  module * { export * }
+}

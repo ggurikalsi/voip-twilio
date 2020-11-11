@@ -1,0 +1,6 @@
+framework module Pods_VOIPTests {
+  umbrella header "Pods-VOIPTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
